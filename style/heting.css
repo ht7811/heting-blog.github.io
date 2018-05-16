@@ -96,6 +96,12 @@ pre {
 
 
 
+#nav li {
+	list-style: none;
+	display: inline-block;
+	position: relative;
+}
+
 #nav li a {
 	color: #505050;
 	line-height: 4em;
