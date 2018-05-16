@@ -1,0 +1,122 @@
+
+body,html {
+ color:#505050;
+ line-height:1.75em;
+ background:#ebebeb;
+ position:relative;
+ font-family:"Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei","Microsoft YaHei UI","Microsoft YaHei",sans-serif
+}
+h1,h2,h3,h4,h5,h6 {
+ font-weight:400;
+ color:#303030
+}
+h1 {
+ font-size:3em
+}
+h2 {
+ font-size:2.5em
+}
+h3 {
+ font-size:2em
+}
+h4 {
+ font-size:1.5em
+}
+h5 {
+ font-size:1em
+}
+h6 {
+ font-size:.75em
+}
+a {
+ color:#f4645f;
+ outline:0
+}
+a:hover {
+ color:#f4645f
+}
+a img,a:active,a:focus {
+ outline:0
+}
+.btn {
+ padding:7px 14px;
+ border-radius:2px
+}
+.btn-default {
+ border:1px solid #f4645f;
+ background:#f4645f;
+ color:#fff;
+ -webkit-transition:all .2s ease-in-out;
+ -o-transition:all .2s ease-in-out;
+ transition:all .2s ease-in-out
+}
+.btn-default:hover {
+ border:1px solid #303030;
+ background:#303030;
+ color:#fff
+}
+.btn-default:focus {
+ outline:0
+}
+.btn-default[disabled] {
+ border:1px solid #303030;
+ background:#303030;
+ color:#fff
+}
+input[type=email],input[type=search],input[type=text],input[type=url],textarea {
+ padding:7px 7px;
+ border:1px solid #ebebeb;
+ border-radius:2px;
+ -webkit-transition:all .2s;
+ -o-transition:all .2s;
+ transition:all .2s
+}
+input[type=email]:focus,input[type=search]:focus,input[type=text]:focus,input[type=url]:focus,textarea:focus {
+ border:1px solid #f4645f;
+ outline:0
+}
+blockquote {
+ border-left:4px solid #f4645f
+}
+pre {
+ padding:0;
+ background:0 0;
+ border:none
+}
+::-moz-selection {
+ color:#fff;
+ background:#f4645f;
+ text-shadow:none
+}
+::selection {
+ color:#fff;
+ background:#f4645f;
+ text-shadow:none
+}
+
+
+
+#nav li a {
+	color: #505050;
+	line-height: 4em;
+	display: block;
+	padding: 0 21px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
